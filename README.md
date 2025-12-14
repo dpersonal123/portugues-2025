@@ -1,2 +1,2 @@
 # portugues-2025
-Aulas de português.
+Aulas de português
